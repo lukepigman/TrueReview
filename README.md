@@ -9,3 +9,8 @@ TrueReview Client is Written in Swift
 TrueReview's backend is a Django environment running on AWS Elastic Beanstalk. 
 
 Due to Free-Tier limits this project may not function if the environment has reached it's monthly free hour limit. 
+
+
+# Running the project
+
+To run the project, open the client folder, then open TrueReview.xcworkspace. Hit run. Open the debug pane of the simulator and set coordinates for location. May need to clean build folder and build 2 times for location coordinates to take.
