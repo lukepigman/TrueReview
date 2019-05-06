@@ -1,4 +1,4 @@
-# TrueReview -IT358 Final
+# TrueReview - Final Project
 
 TrueReview is an iOS application developed with the aim of generating a more accurate rating than a five star system for businesses.
 
